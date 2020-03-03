@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "836038540318",
+    "firebase_url": "https://sanmaru.firebaseio.com",
+    "project_id": "sanmaru",
+    "storage_bucket": "sanmaru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836038540318:android:fd6f0e37e8f2e190b3c20f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_ab_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836038540318-bgmtvkth211qhci11abfqnn4ks91rpk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkWC-jkXrSjp0KMPlOxrvGlogi2eCKSgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836038540318-bgmtvkth211qhci11abfqnn4ks91rpk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836038540318:android:2057cf7bbde03479b3c20f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_mock_testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836038540318-bgmtvkth211qhci11abfqnn4ks91rpk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkWC-jkXrSjp0KMPlOxrvGlogi2eCKSgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836038540318-bgmtvkth211qhci11abfqnn4ks91rpk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836038540318:android:ca239d8fac02d384b3c20f",
+        "android_client_info": {
+          "package_name": "com.example.one_signal_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836038540318-bgmtvkth211qhci11abfqnn4ks91rpk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkWC-jkXrSjp0KMPlOxrvGlogi2eCKSgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836038540318-bgmtvkth211qhci11abfqnn4ks91rpk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836038540318:android:11712943995f9c48b3c20f",
+        "android_client_info": {
+          "package_name": "com.sanmaru.sanmaru_0_0_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836038540318-3cmlddrb3tkuu86s3cvkcq14ve4h8kbp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanmaru.sanmaru_0_0_2",
+            "certificate_hash": "f9ff9953444ab257fb4ab60643a18d8ce654f720"
+          }
+        },
+        {
+          "client_id": "836038540318-bgmtvkth211qhci11abfqnn4ks91rpk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkWC-jkXrSjp0KMPlOxrvGlogi2eCKSgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836038540318-bgmtvkth211qhci11abfqnn4ks91rpk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
