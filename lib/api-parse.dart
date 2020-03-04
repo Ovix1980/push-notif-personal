@@ -94,7 +94,7 @@ class _NewsApiParsingState extends State<NewsApiParsing> {
             return InkWell(
               onTap: (){
                 print("${dataListArtikel.url}");
-                Navigator.push(context,MaterialPageRoute(builder: (context) => Webview("${dataListArtikel.url}")));
+                Navigator.push(context,MaterialPageRoute(builder: (context) => Webview("${dataListArtikel.url}","${dataListArtikel.kategori}")));
               },
               child:Container(
                 margin:EdgeInsets.only(left:20.0,right:20.0),
